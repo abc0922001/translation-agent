@@ -24,7 +24,7 @@ def test_get_completion_json_mode_api_call():
     # Set up the test data
     prompt = "What is the capital of France in json?"
     system_message = "You are a helpful assistant."
-    model = "gpt-4-turbo"
+    model = "gpt-4o"
     temperature = 0.3
     json_mode = True
 
